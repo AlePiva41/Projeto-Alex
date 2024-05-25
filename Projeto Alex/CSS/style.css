@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+    padding-top: 20px;
+    font-family:  "trebuchet-ms";
+    color: black;
+}
+ 
+header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+nav ul{
+    align-items: left;
+    list-style: none;
+    padding: 0%;
+    margin-left: 5px;
+}
+nav li{
+    display: inline;
+    margin-right: 26px;
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+    font-size: 26px;
+    padding: 0 5px;
+}
+header nav ul li:hover{
+    background-color: white;
+}
+#banner img{
+    width: 1200px;
+    height: 500px;
+    border-radius: 90px;
+}    
+img{
+    width: 200px;
+    height: 200px;
+    border: 70px solid white;
+    border-radius: 180px;
+  }
+header{
+    background-color: white;
+    font-style: italic;
+}
+article{
+    text-align: left;
+    background-color: white;
+    
+}
+section{
+    text-align: left;
+    border:80 solid;
+    width: 100%;
+    background-color: white;
+}
+aside{
+    width: 20%;
+    text-align: left;
+    border: solid;
+    background-color: white;
+}
+main{
+   
+}
+footer{
+    background-color: white;
+}
+.direitos{
+    background-color: white;
+}
+.direitos h3{
+    color: white;
+}
+tem menu de contexto
+
+.imgpato{
+    border-radius: 100px;
+}
